@@ -43,7 +43,7 @@ class QuoteCard extends StatelessWidget {
             Text(
               quote.text,
               style: const TextStyle(
-                fontSize: 22,
+                fontSize: 32,
                 fontWeight: FontWeight.w500,
                 color: Color(0xFF2C3E50),
                 height: 1.4,
